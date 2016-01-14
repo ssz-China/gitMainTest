@@ -1,0 +1,23 @@
+{
+  "name": "homephotos",
+  "version": "1.0.0",
+  "description": "this is a web for a home to share theirs photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssz-China/gitMainTest.git"
+  },
+  "keywords": [
+    "home",
+    "photos"
+  ],
+  "author": "ssz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssz-China/gitMainTest/issues"
+  },
+  "homepage": "https://github.com/ssz-China/gitMainTest#readme"
+}
